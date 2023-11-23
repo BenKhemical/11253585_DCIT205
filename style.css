@@ -421,3 +421,67 @@ padding: 10px 15px;
     margin-top: 150px;
     font-size: 50px;
 }
+.events-header{
+    height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/eventbg.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+}
+.events-header h1{
+    margin-top: 150px;
+    font-size: 50px;
+}
+.events-heading h2{
+ text-align: left ;
+ font-weight: 800;
+}
+.events-heading p{
+    text-align: left;
+}
+.row{
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+.events-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box
+}
+.events-img{
+    width: 700px;
+    height: 700px;
+}
+.admnistration-header{
+    height: 50vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/admin\ bg.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+}
+.admnistration-header h1{
+    margin-top: 150px;
+    font-size: 50px;
+}
+.admnistration-heading{
+    width: 700px;
+    display: block;
+    margin: 0px auto;
+
+}
+.admnistration-heading p{
+    text-align: left;
+    font-weight: 300;
+}
+
+.course-advisors img{
+    width: 100%;
+    margin-top: 10px;
+}
