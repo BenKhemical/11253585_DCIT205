@@ -13,15 +13,19 @@ _Here is a detailed instructions on how to setup the project_
 
 ## Clone the repository
 -Open a terminal or command prompt and run the following command to clone the repository
+
 -git clone https://github.com/your-username/11253585_DCIT205.git
+
 -Replace "your-username" with your GitHub username.
 
 ## Navigate to the Project Directory
 -Change into the project directory
+
 -cd 11253585_DCIT205
 
 ## Install Dependencies
 -Run the following command to install the project dependencies:
+
 -npm install
 
 ## Set Up Environment Variables
@@ -29,7 +33,9 @@ _Here is a detailed instructions on how to setup the project_
 
 ## Run the Development Server
 -Start the development server with the following command:
+
 -npm start
+
 -This will launch the development server, and you should see output indicating that the server is running. The website will be accessible at http://localhost:3000 by default.
 
 ## Access The School Website
@@ -64,7 +70,10 @@ _Here is a detailed instructions on how to setup the project_
 ![Profile page](Screenshots/Profile2.png)
 
 **_I have learnt quite alot from this project_**
+----
 -This project has enhances my programming skills, particularly in languages such as HTML and CSS.
+
 -I have learnt implementing responsive design principles to ensure the website functions well on various devices and screen sizes.
+
 -I have learnt techniques for optimizing website performance, including image optimization, code minification, and caching.
 
